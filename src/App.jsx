@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <h2>Redux Practice - Cart</h2>
-      <HomeContainer />
       <NavbarContainer />
+      <HomeContainer />
     </div>
   );
 }

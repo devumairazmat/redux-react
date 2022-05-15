@@ -10,7 +10,7 @@ function Home() {
           <div className="col">
             {" "}
             <span style={{ fontSize: "3em", color: "black", float: "right" }}>
-              <i class="fa-solid fa-cart-shopping"></i>
+              <i className="fa-solid fa-cart-shopping"></i>
             </span>
           </div>
         </div>
